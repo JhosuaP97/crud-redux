@@ -1,0 +1,39 @@
+{
+  "productos": [
+    {
+      "nombre": "Queso con arroz",
+      "precio": "4002",
+      "id": 1
+    },
+    {
+      "nombre": "Chon a la brasa",
+      "precio": "5000",
+      "id": 2
+    },
+    {
+      "nombre": "Paella",
+      "precio": 3000,
+      "id": 3
+    },
+    {
+      "nombre": "Mico mandate asado",
+      "precio": 5000,
+      "id": 4
+    },
+    {
+      "nombre": "elmo rocho ",
+      "precio": "2000",
+      "id": 5
+    },
+    {
+      "nombre": "Muñeco de Papa Noel",
+      "precio": "45000",
+      "id": 6
+    },
+    {
+      "nombre": "Steve a la brasa",
+      "precio": "7000",
+      "id": 8
+    }
+  ]
+}
